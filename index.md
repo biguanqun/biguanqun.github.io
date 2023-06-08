@@ -8,7 +8,7 @@ layout: page
 
 Here is **Guanqun Bi (Lance, 毕冠群)**.
 
-I am a junior majoring in **Automation** at Fuzhou University (China) and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a junior majoring in **Automation** at Infor (China). I am extremely fortunate to be advised by [Prof. Yanan Cao](https://dqxy.fzu.edu.cn/info/1102/3547.htm). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
 
