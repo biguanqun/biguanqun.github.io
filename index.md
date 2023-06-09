@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://biguanqun.github.io/biguanqun.jpeg" class="floatpic" width="360" height="480">
 
 Here is **Guanqun Bi (Lance, 毕冠群)**.
 
