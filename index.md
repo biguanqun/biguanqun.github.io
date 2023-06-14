@@ -4,15 +4,16 @@ layout: page
 
 # About Me
 
-<img src="https://biguanqun.github.io/biguanqun.jpeg" class="floatpic" width="360" height="480">
+<img src="https://github.com/biguanqun/biguanqun.github.io/blob/master/biguanqun.jpeg" class="floatpic" width="360" height="480">
 
-Here is **Guanqun Bi (Lance, 毕冠群)**.
+Here is **Guanqun Bi (毕冠群)**.
 
-I am a junior majoring in **Automation** at Infor (China). I am extremely fortunate to be advised by [Prof. Yanan Cao](https://dqxy.fzu.edu.cn/info/1102/3547.htm). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am a Ph.D student majoring in Cyber Security at Insititute of Information Engineering, Chinese Academy of Science. (Beijing, China).
+I am extremely fortunate to be advised by [Prof. Yanan Cao](https://dqxy.fzu.edu.cn/info/1102/3547.htm). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Natural Language Generating** and its applications in **Natural**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ## News and Updates
 
