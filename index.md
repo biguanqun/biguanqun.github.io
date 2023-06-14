@@ -4,12 +4,12 @@ layout: page
 
 # About Me
 
-<img src="https://github.com/biguanqun/biguanqun.github.io/blob/master/biguanqun.jpeg" class="floatpic" width="360" height="480">
+<img src="https://github.com/biguanqun/biguanqun.github.io/blob/master/biguanqun.jpeg?raw=true" class="floatpic" width="577" height="433">
 
 Here is **Guanqun Bi (毕冠群)**.
 
 I am a Ph.D student majoring in Cyber Security at Insititute of Information Engineering, Chinese Academy of Science. (Beijing, China).
-I am extremely fortunate to be advised by [Prof. Yanan Cao](https://dqxy.fzu.edu.cn/info/1102/3547.htm). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+I am extremely fortunate to be advised by [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Here is [my Resume](I.pdf).
 
 ## Research Interests
 
