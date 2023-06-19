@@ -18,6 +18,8 @@ I am also involved in Affective Computing, Cognitive Science and its application
 
 My long-term goal is to build a controllable and explainable artificial intelligence system that establishes an emotional connection with humans and avoids generating harmful and biased information.
 
+## Education
+
 <!-- ## News and Updates
 
 - **<font color='red'>[News]</font> I am actively searching for a PhD program!**
