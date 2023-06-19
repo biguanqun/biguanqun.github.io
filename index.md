@@ -9,13 +9,16 @@ layout: page
 Here is **Guanqun Bi (毕冠群)**.
 
 I am a Ph.D student majoring in Cyber Security at Insititute of Information Engineering, Chinese Academy of Science. (Beijing, China).
-I am extremely fortunate to be advised by [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Here is [my Resume](I.pdf).
+I am extremely fortunate to be advised by [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Before that, I obtained my B.E. degree at Shandong University in Jun. 2019. Here is [my Resume](I.pdf).
 
 ## Research Interests
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Natural Language Generating** and its applications in **Natural**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My research interests lie within Natural Language Processing, particularly in Dialogue System and Controllable Text Generation tasks. 
+I am also involved in Affective Computing, Cognitive Science and its application in Dialogue System and Text Generation.
 
-## News and Updates
+My long-term goal is to build a controllable and explainable artificial intelligence system that establishes an emotional connection with humans and avoids generating harmful and biased information.
+
+<!-- ## News and Updates
 
 - **<font color='red'>[News]</font> I am actively searching for a PhD program!**
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
@@ -23,4 +26,4 @@ My current research focuses on practical problems that artificial intelligence f
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
 - **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ). -->

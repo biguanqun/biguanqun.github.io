@@ -5,19 +5,24 @@ title: Publications
 ---
 
 # Publications
+<!-- 
+Lastest Update: 9th May 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/) -->
 
-Lastest Update: 9th May 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
+<!-- ## Conference Paper -->
 
-## Conference Paper
+<!-- - [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf). -->
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
+- [DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation](https://arxiv.org/pdf/2306.01657.pdf)<br>**Guanqun Bi**, Lei Shen, Yanan Cao, Meng Chen, Yuqiang Xie, and Xiaodong He. <br> The 61st Annual Meeting of the Association for Computational Linguistics (**ACL**, CCF-A, Oral), 2023.<br>
+TLDR: We design a framework DiffusEmp based on conditional diffusion language model to unify the utilization of dialogue context and attribute-oriented control signals. Our approach involves employing explicit multi-grained control signals to guide empathy response generation. We propose to use explicit multi-grained control signals to guide the empathy response generation. We design a specific masking strategy to reflect the relationship between multi-grained signals and response tokens, then integrate it into the diffusion model to influence the generative process.
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+<center>
+<img src="/images/publications_diffusemp.jpg">
+</center>
+<br>
 
-## Competition Paper
+- [SERI: SkEtching-Reasoning-Integrating Progressive Workflow for Empathetic Response Generation]()<br>**Guanqun Bi**, Yanan Cao, Piji Li, Yuqiang Xie, Fang Fang and Zheng Lin.<br>2023 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**, CCF-B), 2023.<br>TLDR: We propose a SkEtching-Reasoning-Integrating framework for empathetic response generation. We define an empathy planner to capture and reason about multi-source information that considers cognition and affection, and introduce a dynamic integrator module that allows the model dynamically select the appropriate information to generate empathetic responses.
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
-
-## Working Paper
-
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
+<center>
+<img src="/images/publications_seri.jpg">
+</center>
+<br>
