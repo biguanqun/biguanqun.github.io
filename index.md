@@ -9,7 +9,7 @@ layout: page
 Here is **Guanqun Bi (毕冠群)**.
 
 I am a Ph.D student majoring in Cyber Security at Insititute of Information Engineering, Chinese Academy of Science. (Beijing, China).
-I am extremely fortunate to be advised by [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Before that, I obtained my B.E. degree at Shandong University in Jun. 2019. Here is [my Resume](CV-en.pdf).
+I am extremely fortunate to be advised by [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan). Before that, I obtained my B.E. degree at Shandong University in Jun. 2019. Here is [my Resume](/file/CV-zh.pdf).
 
 ## Research Interests
 
