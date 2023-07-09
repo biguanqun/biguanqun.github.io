@@ -7,7 +7,7 @@ url: https://biguanqun.github.io
 # Owner/author information
 owner:
   name: Guanqun Bi
-  avatar: biguanqun.jpeg # hanlin.jpg
+  avatar: biguanqun.png # hanlin.jpg
 #  bio:
   email: biguanqun@iie.ac.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -43,7 +43,7 @@ links:
   # - title: Hobbies
   #   url: /hobbies/
   - title: Blogs
-    urls: https://www.zhihu.com/people/margarika/posts
+    url: https://www.zhihu.com/people/margarika/posts
     # url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
