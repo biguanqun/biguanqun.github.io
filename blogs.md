@@ -6,7 +6,10 @@ title: Blogs
 
 ## My Blogs
 
-### 2023
+请移步[知乎](https://www.zhihu.com/people/margarika/posts)
+
+后续我将把所有博客文章迁移到这个个人网站上来。
+<!-- ### 2023
 
 - [极简风个人网站搭建指南](https://caihanlin.com/blogs/web)
 
@@ -34,4 +37,4 @@ title: Blogs
 
 {% include disqus.html %} 
 
-<br>
+<br> -->
