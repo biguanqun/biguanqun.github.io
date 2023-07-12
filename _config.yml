@@ -37,14 +37,14 @@ links:
   - title: Publications
     url: /publications/
   - title: Talks
-    url: /projects/
+    url: /talks/
   # - title: Awards
   #   url: /awards/
   # - title: Hobbies
   #   url: /hobbies/
   - title: Blogs
+    url: /blogs/
     # url: https://www.zhihu.com/people/margarika/posts
-    # url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
