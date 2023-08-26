@@ -6,7 +6,8 @@ title: Talks
 
 I enjoy researching academic questions that interest me and presenting them as talks.
 
-
+RLHF 人类反馈的强化学习
+[RLHF 人类反馈的强化学习](talks/20230303-ChatGPT-RLHF-final.pptx)
 <!-- # Research Projects
 
 P.S., click the hyperlink title to access the source.<br>
