@@ -22,12 +22,12 @@ My long-term goal is to build a controllable and explainable artificial intellig
 ## Education
 
 Sept. 2019-Present,
-[Institute of Information Engineering (IIE)](http://www.iie.ac.cn/), [University of Chinese Academy of Sciences(CAS)](https://www.ucas.ac.cn/}{UCAS}),Beijing, China
+[Institute of Information Engineering (IIE)](http://www.iie.ac.cn/), [University of Chinese Academy of Sciences(CAS)](https://www.ucas.ac.cn/),Beijing, China
 
 Ph.D., NLP(CS), 
 
 
-Sept. 2015-Jun. 2019,[Shandong University(SDU)](https://www.sdu.edu.cn/)), Jinan, China
+Sept. 2015-Jun. 2019,[Shandong University(SDU)](https://www.sdu.edu.cn/), Jinan, China
 
 B.E., Software Engineering
 

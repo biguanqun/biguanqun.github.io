@@ -5,66 +5,24 @@ title: Talks
 ---
 
 I enjoy researching academic questions that interest me and presenting them as talks.
+Click the hyperlink title to access the source.<br>
 
 大模型安全
 []()
-
-RLHF 人类反馈的强化学习
-[RLHF 人类反馈的强化学习](talks/20230303-ChatGPT-RLHF-final.pptx)
-
-[因果推断](talks/20230303-ChatGPT-RLHF-final.pptx)
-
-AI与认知科学
-[AI与认知科学](talks/220708-AI与认知科学(I).pdf.pptx)
-<!-- # Research Projects
-
-P.S., click the hyperlink title to access the source.<br>
-
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
-
 <center>
 <img src="/images/resnet-ahp.png">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
-
+RLHF 人类反馈的强化学习
+[RLHF 人类反馈的强化学习](https://drive.google.com/file/d/1FhIvl3b7IFR4ebuDZ7S_wI5HRb1nQb9f/view)
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/talks/cover_RLHF.png">
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+[因果推断](talks/20230303-ChatGPT-RLHF-final.pptx)
 
-<center>
-<img src="/images/openiot-system.png">
-</center>
+AI与认知科学
+[AI与认知科学](talks/220708-AI与认知科学(I).pdf.pptx)
 
-<br>
-
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
-
-<center>
-<img src="/images/iot-manager.png">
-</center>
-<br>
-
-<br>
-
----
-
-# Open-source Projects
-
-<br>
-
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
-
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
-
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
-
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
-
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
-
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!** --> 
