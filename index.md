@@ -21,17 +21,18 @@ My long-term goal is to build a controllable and explainable artificial intellig
 
 ## Education
 
-Sept. 2019-Present
-Ph.D., NLP(CS), [Institute of Information Engineering (IIE)](http://www.iie.ac.cn/), [University of Chinese Academy of Sciences(CAS)](https://www.ucas.ac.cn/}{UCAS})
-Beijing, China
-GPA 90.32/100
-Supervisor: [Yanan Cao](https://people.ucas.ac.cn/~caoyanan)
+Sept. 2019-Present,
+[Institute of Information Engineering (IIE)](http://www.iie.ac.cn/), [University of Chinese Academy of Sciences(CAS)](https://www.ucas.ac.cn/}{UCAS}),Beijing, China
 
-Sept. 2015-Jun. 2019
+Ph.D., NLP(CS), 
+
+
+Sept. 2015-Jun. 2019,[Shandong University(SDU)](https://www.sdu.edu.cn/)), Jinan, China
+
 B.E., Software Engineering
-[Shandong University(SDU)](https://www.sdu.edu.cn/))
-Jinan, China
-GPA 4.54/5
+
+
+
 
 <!-- ## News and Updates
 

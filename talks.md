@@ -6,8 +6,16 @@ title: Talks
 
 I enjoy researching academic questions that interest me and presenting them as talks.
 
+大模型安全
+[]()
+
 RLHF 人类反馈的强化学习
 [RLHF 人类反馈的强化学习](talks/20230303-ChatGPT-RLHF-final.pptx)
+
+[因果推断](talks/20230303-ChatGPT-RLHF-final.pptx)
+
+AI与认知科学
+[AI与认知科学](talks/220708-AI与认知科学(I).pdf.pptx)
 <!-- # Research Projects
 
 P.S., click the hyperlink title to access the source.<br>
