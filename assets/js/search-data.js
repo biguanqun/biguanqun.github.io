@@ -37,13 +37,6 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "nav-teaching",
-          title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/teaching/";
-          },
         },{id: "nav-people",
           title: "people",
           description: "members of the lab or group",
@@ -433,16 +426,20 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-started-my-postdoc-position-at-coai-group-tsinghua-university-working-with-prof-minlie-huang",
+          title: '🎓 Started my postdoc position at CoAI Group, Tsinghua University, working with Prof....',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-three-papers-accepted-to-aaai-2025-characterbench-socialsim-and-ss-gen",
+          title: '🎉 Three papers accepted to AAAI 2025: CharacterBench, SocialSim, and SS-GEN!',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-magi-multi-agent-guided-interview-for-psychiatric-assessment-is-accepted-to-acl-2025-findings",
+          title: '📝 Our paper “MAGI: Multi-Agent Guided Interview for Psychiatric Assessment” is accepted to...',
+          description: "",
+          section: "News",},{id: "news-our-paper-a-group-fairness-lens-for-large-language-models-is-accepted-to-emnlp-2025-findings",
+          title: '📝 Our paper “A Group Fairness Lens for Large Language Models” is accepted...',
+          description: "",
+          section: "News",},{id: "news-our-paper-unveiling-the-landscape-of-clinical-depression-assessment-is-accepted-to-aaai-2026",
+          title: '🎉 Our paper “Unveiling the Landscape of Clinical Depression Assessment” is accepted to...',
           description: "",
           section: "News",},{id: "projects-diffusemp",
           title: 'DiffusEmp',
