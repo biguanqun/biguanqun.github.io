@@ -1,34 +1,58 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <i>Two roads diverged in woods, I took the one less traveled by.</i>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p></p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
+selected_papers: true
+social: true
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 5
+latest_posts:
+  enabled: false
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Here is **Guanqun Bi (毕冠群)** 👋.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a **Postdoctoral Researcher** at [CoAI Group](http://coai.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), working with [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I obtained my Ph.D. degree from [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/) in June 2025, where I was fortunate to be advised by [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan).
+
+When I'm not doing research, you can find me **birdwatching** 🐦 in parks around Beijing!
+
+## Research Interests
+
+My research focuses on building AI systems that truly understand and support humans:
+
+- 🧠 **Social Intelligence** - Developing AI with human-like social understanding and interaction capabilities
+- 💚 **AI for Mental Health** - Leveraging AI to support mental well-being and provide accessible care
+- 🗣️ **Dialogue Systems** - Building AI that can have meaningful, empathetic conversations
+- ✍️ **Controllable Text Generation** - Generating text with desired attributes and safety guarantees
+
+My long-term goal is to build **socially intelligent AI systems** that can genuinely understand human emotions, provide meaningful support, and contribute to mental health and well-being.
+
+## Education & Experience
+
+- 🔬 **Jul. 2025 - Present**: Postdoctoral Researcher
+  [CoAI Group, Tsinghua University](http://coai.cs.tsinghua.edu.cn/), Beijing, China
+  Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
+
+- 🎓 **Sept. 2019 - Jun. 2025**: Ph.D. in Cyber Security (NLP direction)
+  [Institute of Information Engineering, CAS](http://www.iie.ac.cn/), Beijing, China
+  Advisor: [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan)
+
+- 🎓 **Sept. 2015 - Jun. 2019**: B.E. in Software Engineering  
+  [Shandong University](https://www.sdu.edu.cn/), Jinan, China
+
+<!-- ## Beyond Research -->
+
+<!-- I love observing birds in their natural habitat and documenting them through [China Bird Report (观鸟记录中心)](http://www.birdreport.cn/). Check out my [Birding](/birding/) page for some of my sightings! -->
