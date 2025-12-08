@@ -2,7 +2,7 @@
 layout: page
 title: Birding
 permalink: /birding/
-description: 🐦 观鸟日记 - My birdwatching adventures and gallery
+description: 🐦 My birdwatching adventures and gallery
 nav: true
 nav_order: 3
 display_categories: [birding]

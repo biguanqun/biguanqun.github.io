@@ -3,6 +3,8 @@ layout: about
 title: About
 permalink: /
 subtitle: <i>Two roads diverged in woods, I took the one less traveled by.</i>
+nav: true
+nav_order: 0
 
 profile:
   align: right
