@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-07'
+  last_updated: '2026-01-09'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -30,7 +30,7 @@ papers:
     title: 'Seri: Sketching-reasoning-integrating progressive workflow for empathetic response generation'
     year: '2023'
   cTMKxukAAAAJ:W7OEmFMy1HYC:
-    citations: 2
+    citations: 3
     title: Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning
     year: '2024'
   cTMKxukAAAAJ:YOwf2qJgpHMC:
@@ -38,7 +38,7 @@ papers:
     title: 'Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning'
     year: '2025'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 32
+    citations: 33
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
@@ -62,7 +62,7 @@ papers:
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
-    citations: 5
+    citations: 6
     title: 'SocialSim: Towards Socialized Simulation of Emotional Support Conversation'
     year: '2025'
   cTMKxukAAAAJ:zYLM7Y9cAGgC:
