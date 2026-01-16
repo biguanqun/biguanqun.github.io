@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-09'
+  last_updated: '2026-01-16'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -22,7 +22,7 @@ papers:
     title: Generative models for complex logical reasoning over knowledge graphs
     year: '2024'
   cTMKxukAAAAJ:ULOm3_A8WrAC:
-    citations: 8
+    citations: 10
     title: 'CharacterBench: Benchmarking Character Customization of Large Language Models'
     year: '2025'
   cTMKxukAAAAJ:UeHWp8X0CEIC:
@@ -38,7 +38,7 @@ papers:
     title: 'Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning'
     year: '2025'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 33
+    citations: 35
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
@@ -50,7 +50,7 @@ papers:
     title: 'No news is an island: Joint heterogeneous graph network for news classification'
     year: '2021'
   cTMKxukAAAAJ:eQOLeE2rZwMC:
-    citations: 7
+    citations: 8
     title: 'SS-GEN: A Social Story Generation Framework with Large Language Models'
     year: '2025'
   cTMKxukAAAAJ:qjMakFHDy7sC:
@@ -58,7 +58,7 @@ papers:
     title: 'DiffusEmp: A diffusion model-based framework with multi-grained control for empathetic response generation'
     year: '2023'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
-    citations: 110
+    citations: 111
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
