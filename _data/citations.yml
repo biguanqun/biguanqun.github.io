@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-16'
+  last_updated: '2026-01-23'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -10,7 +10,7 @@ papers:
     title: Psychology-guided Controllable Story Generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 100
+    citations: 105
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
@@ -22,7 +22,7 @@ papers:
     title: Generative models for complex logical reasoning over knowledge graphs
     year: '2024'
   cTMKxukAAAAJ:ULOm3_A8WrAC:
-    citations: 10
+    citations: 11
     title: 'CharacterBench: Benchmarking Character Customization of Large Language Models'
     year: '2025'
   cTMKxukAAAAJ:UeHWp8X0CEIC:
@@ -38,12 +38,12 @@ papers:
     title: 'Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning'
     year: '2025'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 35
+    citations: 38
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
-    citations: 4
-    title: 'Magi: Multi-agent guided interview for psychiatric assessment'
+    citations: 7
+    title: 'MAGI: Multi-agent guided interview for psychiatric assessment'
     year: '2025'
   cTMKxukAAAAJ:d1gkVwhDpl0C:
     citations: 1
@@ -66,6 +66,6 @@ papers:
     title: 'SocialSim: Towards Socialized Simulation of Emotional Support Conversation'
     year: '2025'
   cTMKxukAAAAJ:zYLM7Y9cAGgC:
-    citations: 12
+    citations: 13
     title: A group fairness lens for large language models
     year: '2023'
