@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-26'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -10,7 +10,7 @@ papers:
     title: Psychology-guided Controllable Story Generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 105
+    citations: 108
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
@@ -18,7 +18,7 @@ papers:
     title: '{\Psi}-Arena: Interactive Assessment and Optimization of LLM-based Psychological Counselors with Tripartite Feedback'
     year: '2025'
   cTMKxukAAAAJ:Tyk-4Ss8FVUC:
-    citations: 7
+    citations: 9
     title: Generative models for complex logical reasoning over knowledge graphs
     year: '2024'
   cTMKxukAAAAJ:ULOm3_A8WrAC:
@@ -62,7 +62,7 @@ papers:
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
-    citations: 6
+    citations: 7
     title: 'SocialSim: Towards Socialized Simulation of Emotional Support Conversation'
     year: '2025'
   cTMKxukAAAAJ:zYLM7Y9cAGgC:
