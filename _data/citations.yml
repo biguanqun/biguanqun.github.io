@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-26'
+  last_updated: '2026-01-30'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -10,7 +10,7 @@ papers:
     title: Psychology-guided Controllable Story Generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 108
+    citations: 110
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
@@ -58,7 +58,7 @@ papers:
     title: 'DiffusEmp: A diffusion model-based framework with multi-grained control for empathetic response generation'
     year: '2023'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
-    citations: 111
+    citations: 112
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
