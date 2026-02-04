@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-04'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 7
@@ -42,21 +42,25 @@ papers:
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
-    citations: 7
-    title: 'MAGI: Multi-agent guided interview for psychiatric assessment'
+    citations: 8
+    title: 'MAGI: multi-agent guided interview for psychiatric assessment'
     year: '2025'
   cTMKxukAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: 'No news is an island: Joint heterogeneous graph network for news classification'
     year: '2021'
   cTMKxukAAAAJ:eQOLeE2rZwMC:
-    citations: 8
+    citations: 9
     title: 'SS-GEN: A Social Story Generation Framework with Large Language Models'
     year: '2025'
   cTMKxukAAAAJ:qjMakFHDy7sC:
     citations: 26
     title: 'DiffusEmp: A diffusion model-based framework with multi-grained control for empathetic response generation'
     year: '2023'
+  cTMKxukAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: 'PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments'
+    year: '2026'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
     citations: 112
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
