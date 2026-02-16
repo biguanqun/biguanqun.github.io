@@ -1,20 +1,20 @@
 metadata:
-  last_updated: '2026-02-04'
+  last_updated: '2026-02-16'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
-    citations: 7
+    citations: 8
     title: 'COMMA: Modeling relationship among motivations, emotions and actions in language-based human activities'
     year: '2022'
   cTMKxukAAAAJ:IjCSPb-OGe4C:
     citations: 9
-    title: Psychology-guided Controllable Story Generation
+    title: Psychology-guided controllable story generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 110
+    citations: 113
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
-    citations: 2
+    citations: 3
     title: '{\Psi}-Arena: Interactive Assessment and Optimization of LLM-based Psychological Counselors with Tripartite Feedback'
     year: '2025'
   cTMKxukAAAAJ:Tyk-4Ss8FVUC:
@@ -26,8 +26,8 @@ papers:
     title: 'CharacterBench: Benchmarking Character Customization of Large Language Models'
     year: '2025'
   cTMKxukAAAAJ:UeHWp8X0CEIC:
-    citations: 2
-    title: 'Seri: Sketching-reasoning-integrating progressive workflow for empathetic response generation'
+    citations: 1
+    title: 'Seri: Sketching-Reasoning-Integrating Progressive Workflow for Empathetic Response Generation'
     year: '2023'
   cTMKxukAAAAJ:W7OEmFMy1HYC:
     citations: 3
@@ -38,11 +38,11 @@ papers:
     title: 'Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning'
     year: '2025'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 38
+    citations: 40
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
-    citations: 8
+    citations: 10
     title: 'MAGI: multi-agent guided interview for psychiatric assessment'
     year: '2025'
   cTMKxukAAAAJ:d1gkVwhDpl0C:
@@ -51,10 +51,10 @@ papers:
     year: '2021'
   cTMKxukAAAAJ:eQOLeE2rZwMC:
     citations: 9
-    title: 'SS-GEN: A Social Story Generation Framework with Large Language Models'
+    title: 'SS-GEN: a social story generation framework with large language models'
     year: '2025'
   cTMKxukAAAAJ:qjMakFHDy7sC:
-    citations: 26
+    citations: 25
     title: 'DiffusEmp: A diffusion model-based framework with multi-grained control for empathetic response generation'
     year: '2023'
   cTMKxukAAAAJ:qxL8FJ1GzNcC:
@@ -62,14 +62,14 @@ papers:
     title: 'PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments'
     year: '2026'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
-    citations: 112
+    citations: 114
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
-    citations: 7
+    citations: 9
     title: 'SocialSim: Towards Socialized Simulation of Emotional Support Conversation'
     year: '2025'
   cTMKxukAAAAJ:zYLM7Y9cAGgC:
-    citations: 13
+    citations: 12
     title: A group fairness lens for large language models
     year: '2023'
