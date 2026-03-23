@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-23'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 8
@@ -10,13 +10,13 @@ papers:
     title: Psychology-guided controllable story generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 126
+    citations: 127
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
     citations: 3
-    title: '{\Psi}-Arena: Interactive Assessment and Optimization of LLM-based Psychological Counselors with Tripartite Feedback'
-    year: '2025'
+    title: "\u03A8-arena: Interactive assessment and optimization of llm-based psychological counselors with tripartite feedback"
+    year: '2026'
   cTMKxukAAAAJ:Tyk-4Ss8FVUC:
     citations: 11
     title: Generative models for complex logical reasoning over knowledge graphs
@@ -36,9 +36,9 @@ papers:
   cTMKxukAAAAJ:YOwf2qJgpHMC:
     citations: 0
     title: 'Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning'
-    year: '2025'
+    year: '2026'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 49
+    citations: 50
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
@@ -62,7 +62,7 @@ papers:
     title: 'PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments'
     year: '2026'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
-    citations: 121
+    citations: 122
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
@@ -70,6 +70,6 @@ papers:
     title: 'SocialSim: Towards Socialized Simulation of Emotional Support Conversation'
     year: '2025'
   cTMKxukAAAAJ:zYLM7Y9cAGgC:
-    citations: 12
+    citations: 13
     title: A group fairness lens for large language models
     year: '2023'
