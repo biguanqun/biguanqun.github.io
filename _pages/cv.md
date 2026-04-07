@@ -9,12 +9,16 @@ nav_order: 5
 
 # Curriculum Vitae
 
+📄 **[Download CV (PDF)](/assets/pdf/Resume-毕冠群.pdf)**
+
+---
+
 ## Education
 
 ### Ph.D. in Cyber Security / NLP
 
 **Institute of Information Engineering, Chinese Academy of Sciences**
-_Sept. 2019 - Jun. 2025_ | Beijing, China
+_Sept. 2019 - Jun. 2024_ | Beijing, China
 
 - Advisor: [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan)
 - Research Focus: Dialogue Systems, Controllable Text Generation, Affective Computing
@@ -31,7 +35,7 @@ _Sept. 2015 - Jun. 2019_ | Jinan, China
 ### Postdoctoral Researcher
 
 **CoAI Group, Tsinghua University**
-_Jul. 2025 - Present_ | Beijing, China
+_Jul. 2024 - Present_ | Beijing, China
 
 - Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
 - Research Focus: Social Intelligence, AI for Mental Health, Dialogue Systems
