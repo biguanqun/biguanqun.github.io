@@ -9,7 +9,7 @@ nav_order: 5
 
 # Curriculum Vitae
 
-📄 **[Download CV (PDF)](/assets/pdf/Resume-毕冠群.pdf)**
+📄 **[Download CV (PDF)](/assets/pdf/Resume-BiGuanqun.pdf)**
 
 ---
 
