@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-🎉 Our paper "Unveiling the Landscape of Clinical Depression Assessment" is accepted to **AAAI 2026**!
+🎉 2 papers accepted to **AAAI 2026**: "Unveiling the Landscape of Clinical Depression Assessment" and "Ψ-Arena"!
