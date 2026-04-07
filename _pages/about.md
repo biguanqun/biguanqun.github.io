@@ -25,7 +25,7 @@ Here is **Guanqun Bi (毕冠群)** 👋.
 
 I am a **Postdoctoral Researcher** at [CoAI Group](http://coai.cs.tsinghua.edu.cn/), [Tsinghua University](https://www.tsinghua.edu.cn/), working with [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml).
 
-I obtained my Ph.D. degree from [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/) in June 2025, where I was fortunate to be advised by [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan).
+I obtained my Ph.D. degree from [Institute of Information Engineering](http://www.iie.ac.cn/), [Chinese Academy of Sciences](https://www.ucas.ac.cn/) in June 2024, where I was fortunate to be advised by [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan).
 
 When I'm not doing research, you can find me **birdwatching** 🐦 in parks around Beijing!
 
@@ -42,11 +42,11 @@ My long-term goal is to build **socially intelligent AI systems** that can genui
 
 ## Education & Experience
 
-- 🔬 **Jul. 2025 - Present**: Postdoctoral Researcher
+- 🔬 **Jul. 2024 - Present**: Postdoctoral Researcher
   [CoAI Group, Tsinghua University](http://coai.cs.tsinghua.edu.cn/), Beijing, China
   Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
 
-- 🎓 **Sept. 2019 - Jun. 2025**: Ph.D. in Cyber Security (NLP direction)
+- 🎓 **Sept. 2019 - Jun. 2024**: Ph.D. in Cyber Security (NLP direction)
   [Institute of Information Engineering, CAS](http://www.iie.ac.cn/), Beijing, China
   Advisor: [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan)
 
