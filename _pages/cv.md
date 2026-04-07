@@ -1,16 +1,15 @@
 ---
 layout: page
-title: CV
+title: Curriculum Vitae
 permalink: /cv/
-description: My Curriculum Vitae
+description: Curriculum Vitae of Guanqun Bi
 nav: true
 nav_order: 5
+nav_title: CV
 ---
 
-# Curriculum Vitae
-
 <div style="margin-bottom: 1.5rem;">
-  <a href="/assets/pdf/Resume-BiGuanqun.pdf" target="_blank" class="btn btn-sm z-depth-0" role="button">📄 Download PDF</a>
+  <a href="/assets/pdf/Resume-BiGuanqun.pdf" target="_blank" class="btn z-depth-0" role="button">📄 Download PDF</a>
 </div>
 
 <iframe src="/assets/pdf/Resume-BiGuanqun.pdf" width="100%" height="900px" style="border: none; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
@@ -22,27 +21,21 @@ nav_order: 5
 
 ## Education
 
-### Ph.D. in Cyber Security / NLP
-
-**Institute of Information Engineering, Chinese Academy of Sciences**
-_Sept. 2019 - Jun. 2024_ | Beijing, China
+**Ph.D. in Cyber Security / NLP**
+[Institute of Information Engineering, Chinese Academy of Sciences](http://www.iie.ac.cn/) · _Sept. 2019 - Jun. 2024_ · Beijing, China
 
 - Advisor: [Prof. Yanan Cao](https://people.ucas.ac.cn/~caoyanan)
 - Research Focus: Dialogue Systems, Controllable Text Generation, Affective Computing
 
-### B.E. in Software Engineering
-
-**Shandong University**
-_Sept. 2015 - Jun. 2019_ | Jinan, China
+**B.E. in Software Engineering**
+[Shandong University](https://www.sdu.edu.cn/) · _Sept. 2015 - Jun. 2019_ · Jinan, China
 
 ---
 
 ## Work Experience
 
-### Postdoctoral Researcher
-
-**CoAI Group, Tsinghua University**
-_Jul. 2024 - Present_ | Beijing, China
+**Postdoctoral Researcher**
+[CoAI Group, Tsinghua University](http://coai.cs.tsinghua.edu.cn/) · _Jul. 2024 - Present_ · Beijing, China
 
 - Advisor: [Prof. Minlie Huang](http://coai.cs.tsinghua.edu.cn/hml)
 - Research Focus: Social Intelligence, AI for Mental Health, Dialogue Systems
@@ -51,13 +44,13 @@ _Jul. 2024 - Present_ | Beijing, China
 
 ## Publications
 
-### 2026
+#### 2026
 
 - **Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning**
   Zhuang Chen, **Guanqun Bi**, Wen Zhang, Jiawei Hu, Aoyun Wang, Xiyao Xiao, Kun Feng, Minlie Huang
   _AAAI 2026_
 
-### 2025
+#### 2025
 
 - **MAGI: Multi-Agent Guided Interview for Psychiatric Assessment**
   **Guanqun Bi**, Zhuang Chen, Zhoufu Liu, Hongkai Wang, Xiyao Xiao, Yuqiang Xie, Wen Zhang, Yongkang Huang, Yuxuan Chen, Libiao Peng, et al.
@@ -79,7 +72,7 @@ _Jul. 2024 - Present_ | Beijing, China
   Yi Feng, Mingyang Song, Jiaqi Wang, Zhuang Chen, **Guanqun Bi**, Minlie Huang, Liping Jing, Jian Yu
   _AAAI 2025_
 
-### 2024
+#### 2024
 
 - **ToMBench: Benchmarking Theory of Mind in Large Language Models**
   Zhuang Chen, Jincenzi Wu, Jinfeng Zhou, Bosi Wen, **Guanqun Bi**, Gongyao Jiang, Yaru Cao, Mengting Hu, Yunghwei Lai, Zexuan Xiong, et al.
@@ -97,7 +90,7 @@ _Jul. 2024 - Present_ | Beijing, China
   Yu Liu, Yanan Cao, Shi Wang, Qingyue Wang, **Guanqun Bi**
   _WSDM 2024_
 
-### 2023
+#### 2023
 
 - **DiffusEmp: A Diffusion Model-Based Framework with Multi-Grained Control for Empathetic Response Generation**
   **Guanqun Bi**, Lei Shen, Yanan Cao, Meng Chen, Yuqiang Xie, Xiaodong He
@@ -107,7 +100,7 @@ _Jul. 2024 - Present_ | Beijing, China
   **Guanqun Bi**, Yanan Cao, Piji Li, Yuqiang Xie, Fang Fang, Zheng Lin
   _ICASSP 2023_
 
-### 2022
+#### 2022
 
 - **COMMA: Modeling Relationship among Motivations, Emotions and Actions in Language-based Human Activities**
   Yuqiang Xie, Yue Hu, Wei Peng, **Guanqun Bi**, Luxi Xing
@@ -121,7 +114,7 @@ _Jul. 2024 - Present_ | Beijing, China
   Ren Li, Yanan Cao, Qiannan Zhu, **Guanqun Bi**, Fang Fang, Yi Liu, Qian Li
   _AAAI 2022_
 
-### 2021
+#### 2021
 
 - **No News is an Island: Joint Heterogeneous Graph Network for News Classification**
   Zhezhou Kang, Yi Liu, **Guanqun Bi**, Fang Fang, Pengfei Yin
@@ -130,6 +123,7 @@ _Jul. 2024 - Present_ | Beijing, China
 ---
 
 ## Research Interests
+
 
 - **Dialogue Systems**: Empathetic dialogue, task-oriented dialogue
 - **Controllable Text Generation**: Attribute-controlled generation, diffusion models for NLP
