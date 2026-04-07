@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Curriculum Vitae
+title: CV
 permalink: /cv/
 nav: true
 nav_order: 5
-nav_title: CV
 ---
 
 <iframe src="/assets/pdf/Resume-BiGuanqun.pdf" width="100%" height="900px" style="border: none; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
