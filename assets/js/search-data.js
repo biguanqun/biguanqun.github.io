@@ -23,9 +23,9 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/birding/";
           },
-        },{id: "nav-cv",
-          title: "CV",
-          description: "My Curriculum Vitae",
+        },{id: "nav-curriculum-vitae",
+          title: "Curriculum Vitae",
+          description: "Curriculum Vitae of Guanqun Bi",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
