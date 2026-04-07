@@ -2,15 +2,10 @@
 layout: page
 title: Curriculum Vitae
 permalink: /cv/
-description: Curriculum Vitae of Guanqun Bi
 nav: true
 nav_order: 5
 nav_title: CV
 ---
-
-<div style="margin-bottom: 1.5rem;">
-  <a href="/assets/pdf/Resume-BiGuanqun.pdf" target="_blank" class="btn z-depth-0" role="button">📄 Download PDF</a>
-</div>
 
 <iframe src="/assets/pdf/Resume-BiGuanqun.pdf" width="100%" height="900px" style="border: none; border-radius: 4px; box-shadow: 0 2px 8px rgba(0,0,0,0.15);">
   <p>Your browser does not support embedded PDFs.

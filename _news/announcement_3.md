@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-📝 Our paper "A Group Fairness Lens for Large Language Models" is accepted to **EMNLP 2025 Findings**!
+📝 Our paper "A Group Fairness Lens for Large Language Models" is accepted to **EMNLP 2025**!
