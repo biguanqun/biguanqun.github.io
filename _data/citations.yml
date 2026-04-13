@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-13'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
-    citations: 8
+    citations: 9
     title: 'COMMA: Modeling relationship among motivations, emotions and actions in language-based human activities'
     year: '2022'
   cTMKxukAAAAJ:IjCSPb-OGe4C:
@@ -38,11 +38,11 @@ papers:
     title: 'Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning'
     year: '2026'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 53
+    citations: 54
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
-    citations: 14
+    citations: 15
     title: 'MAGI: multi-agent guided interview for psychiatric assessment'
     year: '2025'
   cTMKxukAAAAJ:d1gkVwhDpl0C:
@@ -54,7 +54,7 @@ papers:
     title: 'SS-GEN: a social story generation framework with large language models'
     year: '2025'
   cTMKxukAAAAJ:qjMakFHDy7sC:
-    citations: 26
+    citations: 27
     title: 'DiffusEmp: A diffusion model-based framework with multi-grained control for empathetic response generation'
     year: '2023'
   cTMKxukAAAAJ:qxL8FJ1GzNcC:
