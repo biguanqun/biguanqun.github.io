@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-27'
+  last_updated: '2026-05-20'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
-    citations: 9
+    citations: 10
     title: 'COMMA: Modeling relationship among motivations, emotions and actions in language-based human activities'
     year: '2022'
   cTMKxukAAAAJ:IjCSPb-OGe4C:
@@ -10,7 +10,7 @@ papers:
     title: Psychology-guided controllable story generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 139
+    citations: 144
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
@@ -30,39 +30,43 @@ papers:
     title: 'Seri: Sketching-Reasoning-Integrating Progressive Workflow for Empathetic Response Generation'
     year: '2023'
   cTMKxukAAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 6
     title: Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning
     year: '2024'
   cTMKxukAAAAJ:YOwf2qJgpHMC:
-    citations: 0
+    citations: 1
     title: 'Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning'
     year: '2026'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 61
+    citations: 66
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
-    citations: 18
+    citations: 20
     title: 'MAGI: multi-agent guided interview for psychiatric assessment'
     year: '2025'
+  cTMKxukAAAAJ:aqlVkmm33-oC:
+    citations: 0
+    title: 'StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning'
+    year: '2026'
   cTMKxukAAAAJ:d1gkVwhDpl0C:
     citations: 1
     title: 'No news is an island: Joint heterogeneous graph network for news classification'
     year: '2021'
   cTMKxukAAAAJ:eQOLeE2rZwMC:
-    citations: 10
+    citations: 11
     title: 'SS-GEN: a social story generation framework with large language models'
     year: '2025'
   cTMKxukAAAAJ:qjMakFHDy7sC:
-    citations: 27
+    citations: 28
     title: 'DiffusEmp: A diffusion model-based framework with multi-grained control for empathetic response generation'
     year: '2023'
   cTMKxukAAAAJ:qxL8FJ1GzNcC:
-    citations: 0
+    citations: 1
     title: 'PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments'
     year: '2026'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
-    citations: 126
+    citations: 128
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
