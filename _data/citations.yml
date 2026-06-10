@@ -1,28 +1,28 @@
 metadata:
-  last_updated: '2026-05-25'
+  last_updated: '2026-06-10'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 10
     title: 'COMMA: Modeling relationship among motivations, emotions and actions in language-based human activities'
     year: '2022'
   cTMKxukAAAAJ:IjCSPb-OGe4C:
-    citations: 10
+    citations: 11
     title: Psychology-guided controllable story generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 146
+    citations: 153
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
     citations: 7
-    title: "\u03A8-arena: Interactive assessment and optimization of llm-based psychological counselors with tripartite feedback"
+    title: "\u03A8-Arena: Interactive assessment and optimization of LLM-based psychological counselors with tripartite feedback"
     year: '2026'
   cTMKxukAAAAJ:Tyk-4Ss8FVUC:
     citations: 11
     title: Generative models for complex logical reasoning over knowledge graphs
     year: '2024'
   cTMKxukAAAAJ:ULOm3_A8WrAC:
-    citations: 12
+    citations: 13
     title: 'CharacterBench: Benchmarking Character Customization of Large Language Models'
     year: '2025'
   cTMKxukAAAAJ:UeHWp8X0CEIC:
@@ -30,7 +30,7 @@ papers:
     title: 'Seri: Sketching-Reasoning-Integrating Progressive Workflow for Empathetic Response Generation'
     year: '2023'
   cTMKxukAAAAJ:W7OEmFMy1HYC:
-    citations: 6
+    citations: 7
     title: Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning
     year: '2024'
   cTMKxukAAAAJ:YOwf2qJgpHMC:
@@ -66,11 +66,11 @@ papers:
     title: 'PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments'
     year: '2026'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
-    citations: 130
+    citations: 131
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
-    citations: 16
+    citations: 18
     title: 'SocialSim: Towards Socialized Simulation of Emotional Support Conversation'
     year: '2025'
   cTMKxukAAAAJ:zYLM7Y9cAGgC:
