@@ -1,16 +1,20 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-06'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 10
     title: 'COMMA: Modeling relationship among motivations, emotions and actions in language-based human activities'
     year: '2022'
+  cTMKxukAAAAJ:9ZlFYXVOiuMC:
+    citations: 0
+    title: 'S^ 4: Operationalizing Speech Act Theory for Strategic Semi-Structured Psychiatric Interview'
+    year: '2026'
   cTMKxukAAAAJ:IjCSPb-OGe4C:
     citations: 11
     title: Psychology-guided controllable story generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 158
+    citations: 171
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
@@ -18,7 +22,7 @@ papers:
     title: "\u03A8-Arena: Interactive assessment and optimization of LLM-based psychological counselors with tripartite feedback"
     year: '2026'
   cTMKxukAAAAJ:Tyk-4Ss8FVUC:
-    citations: 11
+    citations: 12
     title: Generative models for complex logical reasoning over knowledge graphs
     year: '2024'
   cTMKxukAAAAJ:ULOm3_A8WrAC:
@@ -30,19 +34,19 @@ papers:
     title: 'Seri: Sketching-Reasoning-Integrating Progressive Workflow for Empathetic Response Generation'
     year: '2023'
   cTMKxukAAAAJ:W7OEmFMy1HYC:
-    citations: 7
+    citations: 8
     title: Enhancing Emotional Support Conversation with Cognitive Chain-of-Thought Reasoning
     year: '2024'
   cTMKxukAAAAJ:YOwf2qJgpHMC:
     citations: 1
-    title: 'Unveiling the Landscape of Clinical Depression Assessment: From Behavioral Signatures to Psychiatric Reasoning'
+    title: 'Unveiling the landscape of clinical depression assessment: from behavioral signatures to psychiatric reasoning'
     year: '2026'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 69
+    citations: 71
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
-    citations: 21
+    citations: 23
     title: 'MAGI: multi-agent guided interview for psychiatric assessment'
     year: '2025'
   cTMKxukAAAAJ:aqlVkmm33-oC:
@@ -54,7 +58,7 @@ papers:
     title: 'No news is an island: Joint heterogeneous graph network for news classification'
     year: '2021'
   cTMKxukAAAAJ:eQOLeE2rZwMC:
-    citations: 12
+    citations: 14
     title: 'SS-GEN: a social story generation framework with large language models'
     year: '2025'
   cTMKxukAAAAJ:qjMakFHDy7sC:
@@ -66,11 +70,11 @@ papers:
     title: 'PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments'
     year: '2026'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
-    citations: 131
+    citations: 132
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
-    citations: 18
+    citations: 21
     title: 'SocialSim: Towards Socialized Simulation of Emotional Support Conversation'
     year: '2025'
   cTMKxukAAAAJ:zYLM7Y9cAGgC:
