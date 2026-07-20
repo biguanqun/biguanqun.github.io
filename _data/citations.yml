@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-20'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 10
@@ -10,11 +10,11 @@ papers:
     title: 'S^ 4: Operationalizing Speech Act Theory for Strategic Semi-Structured Psychiatric Interview'
     year: '2026'
   cTMKxukAAAAJ:IjCSPb-OGe4C:
-    citations: 11
+    citations: 12
     title: Psychology-guided controllable story generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 171
+    citations: 173
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
@@ -42,7 +42,7 @@ papers:
     title: 'Unveiling the landscape of clinical depression assessment: from behavioral signatures to psychiatric reasoning'
     year: '2026'
   cTMKxukAAAAJ:YsMSGLbcyi4C:
-    citations: 71
+    citations: 74
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
@@ -62,7 +62,7 @@ papers:
     title: 'SS-GEN: a social story generation framework with large language models'
     year: '2025'
   cTMKxukAAAAJ:qjMakFHDy7sC:
-    citations: 28
+    citations: 29
     title: 'DiffusEmp: A diffusion model-based framework with multi-grained control for empathetic response generation'
     year: '2023'
   cTMKxukAAAAJ:qxL8FJ1GzNcC:
@@ -70,7 +70,7 @@ papers:
     title: 'PsychePass: Calibrating LLM Therapeutic Competence via Trajectory-Anchored Tournaments'
     year: '2026'
   cTMKxukAAAAJ:u-x6o8ySG0sC:
-    citations: 132
+    citations: 133
     title: 'How does knowledge graph embedding extrapolate to unseen data: a semantic evidence view'
     year: '2022'
   cTMKxukAAAAJ:ufrVoPGSRksC:
