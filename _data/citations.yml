@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-20'
+  last_updated: '2026-07-31'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
-    citations: 10
+    citations: 11
     title: 'COMMA: Modeling relationship among motivations, emotions and actions in language-based human activities'
     year: '2022'
   cTMKxukAAAAJ:9ZlFYXVOiuMC:
@@ -10,11 +10,11 @@ papers:
     title: 'S^ 4: Operationalizing Speech Act Theory for Strategic Semi-Structured Psychiatric Interview'
     year: '2026'
   cTMKxukAAAAJ:IjCSPb-OGe4C:
-    citations: 12
+    citations: 13
     title: Psychology-guided controllable story generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 173
+    citations: 177
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
