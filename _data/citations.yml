@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-08-31'
 papers:
   cTMKxukAAAAJ:2osOgNQ5qMEC:
     citations: 11
@@ -14,7 +14,7 @@ papers:
     title: Psychology-guided controllable story generation
     year: '2022'
   cTMKxukAAAAJ:KlAtU1dfN6UC:
-    citations: 184
+    citations: 188
     title: 'Tombench: Benchmarking theory of mind in large language models'
     year: '2024'
   cTMKxukAAAAJ:LkGwnXOMwfcC:
@@ -26,7 +26,7 @@ papers:
     title: 'PatientAct: Theory-Grounded Mental Health Client Simulation'
     year: '2026'
   cTMKxukAAAAJ:Tyk-4Ss8FVUC:
-    citations: 12
+    citations: 13
     title: Generative models for complex logical reasoning over knowledge graphs
     year: '2024'
   cTMKxukAAAAJ:ULOm3_A8WrAC:
@@ -50,7 +50,7 @@ papers:
     title: 'CharacterGLM: Customizing Social Characters with Large Language Models'
     year: '2024'
   cTMKxukAAAAJ:_FxGoFyzp5QC:
-    citations: 30
+    citations: 32
     title: 'MAGI: Multi-agent guided interview for psychiatric assessment'
     year: '2025'
   cTMKxukAAAAJ:aqlVkmm33-oC:
